@@ -37,18 +37,5 @@ module top_i2c(
    i2c_slave  slave ( .scl(scl),.rst(rst),.sda(sda));
    
    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        
 endmodule
