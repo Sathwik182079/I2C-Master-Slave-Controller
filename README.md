@@ -41,12 +41,7 @@ rtl/
 tb/
 │── tb_I2C.v
 
-docs/
-│── Block_Diagram.png
-│── Master_FSM.png
-│── Slave_FSM.png
-│── Waveform_Write.png
-│── Waveform_Read.png
+
 ```
 
 ---
@@ -132,9 +127,7 @@ STOP
 
 - Clock Stretching
 - Multi-Slave Support
-- Arbitration for Multi-Master Systems
-- Parameterizable Data Length
-- FPGA Validation on Basys 3
+
 
 ---
 
